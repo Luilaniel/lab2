@@ -1,0 +1,11 @@
+C:\Users\Drrif\Desktop\oop\Lab2Lib\Lab2Lib\bin\Debug\net8.0\Lab2Lib.deps.json
+C:\Users\Drrif\Desktop\oop\Lab2Lib\Lab2Lib\bin\Debug\net8.0\Lab2Lib.dll
+C:\Users\Drrif\Desktop\oop\Lab2Lib\Lab2Lib\bin\Debug\net8.0\Lab2Lib.pdb
+C:\Users\Drrif\Desktop\oop\Lab2Lib\Lab2Lib\obj\Debug\net8.0\Lab2Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drrif\Desktop\oop\Lab2Lib\Lab2Lib\obj\Debug\net8.0\Lab2Lib.AssemblyInfoInputs.cache
+C:\Users\Drrif\Desktop\oop\Lab2Lib\Lab2Lib\obj\Debug\net8.0\Lab2Lib.AssemblyInfo.cs
+C:\Users\Drrif\Desktop\oop\Lab2Lib\Lab2Lib\obj\Debug\net8.0\Lab2Lib.csproj.CoreCompileInputs.cache
+C:\Users\Drrif\Desktop\oop\Lab2Lib\Lab2Lib\obj\Debug\net8.0\Lab2Lib.dll
+C:\Users\Drrif\Desktop\oop\Lab2Lib\Lab2Lib\obj\Debug\net8.0\refint\Lab2Lib.dll
+C:\Users\Drrif\Desktop\oop\Lab2Lib\Lab2Lib\obj\Debug\net8.0\Lab2Lib.pdb
+C:\Users\Drrif\Desktop\oop\Lab2Lib\Lab2Lib\obj\Debug\net8.0\ref\Lab2Lib.dll
